@@ -3,9 +3,6 @@ An exhaustive list of AI Startups in India 2024!
 
 An updated list of best Generative AI startups being built in India. Includes startups from all sectors and all stages.
 
-Here's an updated table with 10 more generative AI startups from India, focusing on various sectors and stages:
-
-Here's the updated list with **CodeAnt AI** included:
 
 | Startup Name                             | Sector              | Funding Stage | What it does?                                                                 |
 |------------------------------------------|---------------------|---------------|-------------------------------------------------------------------------------|
