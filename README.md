@@ -16,3 +16,8 @@ Here's the updated list with **CodeAnt AI** included:
 | [Portkey AI](https://portkey.ai)         | Development          | Seed          | Builds AI app control panels for production-level GenAI apps.                 |
 | [Repello AI](https://repello.ai)         | Security             | Pre-seed      | Platform to red team LLM applications.                                        |
 | [CodeAnt AI](https://codeant.ai)         | Development Tools    | Seed          | AI-based code optimization, security, and auto-fix platform.                  |
+| [Empirical Run](https://www.empirical.run/) | Testing and QA    | Bootstrapped  | AI agents that write, maintain, and run end-to-end tests.                     |
+| [GrowEasy AI](https://groweasy.ai)       | Lead generation      | Bootstrapped  | Create Lead ad campaigns on Facebook and Instagram in 5 minutes               |
+| [Prabhav](https://myprabhav.org/)        | Finding Govt Schemes | Bootstrapped  | AI whatsapp bot to help get recommendations on suitable govt schemes          |
+
+
