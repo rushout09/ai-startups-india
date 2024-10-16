@@ -16,5 +16,5 @@ An updated list of best Generative AI startups being built in India. Includes st
 | [Empirical Run](https://www.empirical.run/) | Testing and QA    | Bootstrapped  | AI agents that write, maintain, and run end-to-end tests.                     |
 | [GrowEasy AI](https://groweasy.ai)       | Lead generation      | Bootstrapped  | Create Lead ad campaigns on Facebook and Instagram in 5 minutes               |
 | [Prabhav](https://myprabhav.org/)        | Finding Govt Schemes | Bootstrapped  | AI whatsapp bot to help get recommendations on suitable govt schemes          |
-
+| [Tisac](https://www.tisac.in/)           | Devops for AI        | Bootstrapped  | Develop and deploy AI without the overhead of DevOps                          |
 
