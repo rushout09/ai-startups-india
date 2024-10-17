@@ -19,7 +19,7 @@ An updated list of best Generative AI startups being built in India. Includes st
 | [Tisac](https://www.tisac.in/)           | Devops for AI        | Bootstrapped  | Develop and deploy AI without the overhead of DevOps                          |
 | [Access Insights](https://accessinsights.ai/)| AI Art           | Bootstrapped  | Generate stunning AI art                                                      |
 | [Alchemyst AI](https://getalchemystai.com/) | AI Employees      | Pre-seed      | gen-AI digital employees                                                      |
-| [Vesttra AI](https://vestra.ai/)         | AI Agents            | Bootstrapped  | Build, deploy and monetize AI agent systems                                   |
+| [Vestra AI](https://vestra.ai/)         | AI Agents            | Bootstrapped  | Build, deploy and monetize AI agent systems                                   |
 | [Stimuler Tech](https://stimuler.tech/)  | AI Tutor             | Seed          | World's fastest way to Speak English better                                   |
 | [Quash](https://quashbugs.com/)          | Development Tools    | Bootstrapped  | Automated Bug Reporting & Resolution                                          |
 | [Bitscale AI](https://bitscale.ai/)      | AI Workflows         | Seed          | Help growth teams to build scalable AI workflows.                             |
