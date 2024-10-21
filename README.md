@@ -27,6 +27,5 @@ An updated list of best Generative AI startups being built in India. Includes st
 | [Fillbot](https://fillbot.pro/)          | AI Tool              | Bootstrapped  | AI-powered form filler                                                        | 
 | [Feta IO](https://feta.io/)              | Product Management   | Bootstrapped  | Helps teams run efficient meetings, document discussions                      |
 | [AI Camp](https://aicamp.so/)            | AI Tool              | Bootstrapped  | Collaborative AI tools for teams and enterprises.                             |
-
-
+| [VedVaani](https://vedvaani.in/)         | AI Astro             | Bootstrapped  | AI Astrology and Spiritual Guide.                                             |
 
