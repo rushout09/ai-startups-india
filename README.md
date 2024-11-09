@@ -1,6 +1,11 @@
 # Awesome AI Startups India
 An exhaustive list of AI Startups in India 2024!
 
+
+## Contributing Guide
+Create a pull request to add your startup or email at rushabh@tryseoexpert.com
+
+
 An updated list of best Generative AI startups being built in India. Includes startups from all sectors and all stages.
 
 
